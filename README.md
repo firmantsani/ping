@@ -1,1 +1,1 @@
-pinga
+pings
